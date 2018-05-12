@@ -1,0 +1,38 @@
+_repo: Jessie-s-Parrot_44123
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Felter, John D.
+    gutenberg_agent_id: '31853'
+    url: http://www.gutenberg.org/2009/agents/31853
+covers:
+- cover_type: archival
+  image_path: 44123-h/images/image1-coverpage.jpg
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2013-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intergenerational relations -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Grandparents -- Juvenile fiction'
+- !lcsh 'Parrots -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+title: Jessie's Parrot
+url: http://www.gutenberg.org/ebooks/44123
